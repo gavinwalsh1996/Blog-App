@@ -1,1 +1,1 @@
-# Blog-App
+# Image Generator
